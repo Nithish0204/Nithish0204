@@ -57,7 +57,7 @@ Hey! I'm **Nithish Daruvuri**, a passionate **Student Developer** from **VR Sidd
 
 ```javascript
 const nithish = {
-  location: "📍 Guntur, Andhra Pradesh, India",
+  location: "📍 Vijaywada, Andhra Pradesh, India",
   education: "🎓 VR Siddhartha Engineering College",
 
   expertise: {

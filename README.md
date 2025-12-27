@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NITHISH%20DARUVURI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Solutions%20|%20Code%20|%20Create%20|%20Innovate&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NITHISH%20DARUVURI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code%20%7C%20Build%20%7C%20Create&descAlignY=51&descAlign=50"/>
 
 </div>
 
 <!-- Animated Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BEFF7&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Nithish+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BEFF7&center=true&vCenter=true&random=false&width=700&lines=Coding+%F0%9F%92%BB;Learning+%F0%9F%93%9A;Growing+%F0%9F%8C%B1;Working+%E2%9A%99;Thinking+%F0%9F%A7%A0;Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Social Links with Animation -->

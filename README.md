@@ -158,21 +158,7 @@ I'm on a mission to master the art of software development, one commit at a time
 
 ---
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithish0204&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish0204&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish0204&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
----
 
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Activity</h2>

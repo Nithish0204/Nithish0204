@@ -24,51 +24,81 @@
 
 ---
 
-<!-- About Me Grid -->
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  About Me
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
-### 🚀 Quick Bio
+<br>
 
-```yaml
-name: Nithish Daruvuri
-located_in: Guntur, Andhra Pradesh, India
-education: VR Siddhartha Engineering College
-current_role: Student Developer
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-fields_of_interests:
-  - Backend Development
-  - DevOps & Cloud Computing
-  - Artificial Intelligence
-  - Competitive Programming
-  - Open Source
+<br>
 
-technical_background:
-  - Data Structures & Algorithms
-  - Full Stack Web Development
-  - Machine Learning Fundamentals
-  - System Design Principles
+### 🎯 Who Am I?
 
-hobbies:
-  - Solving algorithmic problems
-  - Building side projects
-  - Contributing to open source
-  - Participating in hackathons
+Hey! I'm **Nithish Daruvuri**, a passionate **Student Developer** from **VR Siddhartha Engineering College**, constantly pushing the boundaries of what's possible with code. I believe in learning by building and building by learning!
+
+<br>
+
+### 🔭 What I'm Currently Up To
+
+- 🚀 Diving deep into **DevOps** - mastering Docker, Kubernetes & CI/CD pipelines
+- 🤖 Exploring **AI/ML** - building neural networks and data science projects
+- 💻 Crafting scalable **Backend Architectures** with microservices
+- 🏆 Grinding **DSA** problems daily on competitive coding platforms
+- 🌟 Preparing for **Open Source Contributions** to make an impact
+
+<br>
+
+### 💡 My Expertise Zone
+
+```javascript
+const nithish = {
+  location: "📍 Guntur, Andhra Pradesh, India",
+  education: "🎓 VR Siddhartha Engineering College",
+
+  expertise: {
+    backend: ["Node.js", "Express", "Django", "Spring Boot"],
+    frontend: ["React", "Tailwind CSS", "Bootstrap"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    languages: ["Python", "Java", "JavaScript", "C"],
+    devops: ["Docker", "Git", "Linux", "CI/CD"],
+    competitive: ["LeetCode", "CodeChef", "Codeforces"],
+  },
+
+  passions: ["Problem Solving 🧩", "System Design 🏗️", "Cloud Computing ☁️"],
+
+  currentGoal:
+    "Building production-ready applications & contributing to open source",
+
+  funFact: "I turn coffee into code and bugs into features! ☕➡️💻",
+};
 ```
 
-</td>
-<td width="45%" valign="top">
+<br>
 
-### 📈 GitHub Analytics
+### 🎪 Beyond The Code
 
-<img src="https://github-readme-stats.vercel.app/api?username=nithish0204&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="100%"/>
+When I'm not debugging or pushing commits, you'll find me:
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nithish0204&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" width="100%"/>
+- 🧠 Solving complex algorithmic challenges
+- 🛠️ Building side projects that solve real problems
+- 🤝 Collaborating on open-source initiatives
+- 🏅 Competing in hackathons and coding contests
+- 📚 Reading tech blogs and staying updated with latest trends
 
-</td>
-</tr>
-</table>
+<br>
+
+### 🌱 Always Growing
+
+> "The best way to predict the future is to create it."
+
+I'm on a mission to master the art of software development, one commit at a time. Currently leveling up my skills in **cloud architecture**, **machine learning**, and **scalable system design**!
+
+<br>
 
 ---
 
@@ -78,21 +108,25 @@ hobbies:
 <div align="center">
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript&theme=dark" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### Backend & Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,mongodb,mysql,postgres&theme=dark" />
 </p>
 
 ### DevOps & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,docker&theme=dark" />
 </p>
@@ -124,34 +158,27 @@ hobbies:
 
 ---
 
-<!-- GitHub Stats Grid -->
+<!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish0204&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithish0204&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithish0204&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish0204&theme=radical&hide_border=true" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithish0204&theme=radical" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish0204&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
-
----
-
-<!-- Trophy Section -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nithish0204&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" />
-</p>
 
 ---
 
 <!-- Activity Graph -->
-<h2 align="center">📉 Contribution Graph</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish0204&custom_title=Nithish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithish0204&custom_title=Nithish's%20Contribution%20Graph&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area_color=f85d7f&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -159,30 +186,33 @@ hobbies:
 <!-- Quote Section -->
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   
 </div>
 
 ---
 
-<!-- Footer with Snake Animation -->
+<!-- Snake Animation -->
+<h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
+
 <div align="center">
-
-### 🐍 Watch my contributions get eaten by the snake!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<br>
 
 ---
 
+<!-- Footer -->
 <div align="center">
   
-### 💬 Let's Connect and Build Something Amazing!
+### 💬 "Code is poetry written in logic"
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 

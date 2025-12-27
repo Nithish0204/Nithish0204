@@ -16,7 +16,11 @@
 
 <br/>
 
+<div align="center">
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
@@ -44,22 +48,28 @@ const nithish: Developer = {
 };
 ```
 
+<br clear="right"/>
+
+<div align="center">
+
 ### 🎯 Current Focus
 
 <table>
   <tr>
-    <td>🚀 Building scalable backend systems</td>
-    <td>🤖 Exploring AI/ML applications</td>
+    <td align="center" width="50%">🚀 Building scalable backend systems</td>
+    <td align="center" width="50%">🤖 Exploring AI/ML applications</td>
   </tr>
   <tr>
-    <td>☁️ Learning DevOps & Cloud technologies</td>
-    <td>🏆 Competing in coding challenges</td>
+    <td align="center" width="50%">☁️ Learning DevOps & Cloud technologies</td>
+    <td align="center" width="50%">🏆 Competing in coding challenges</td>
   </tr>
   <tr>
-    <td>🌟 Contributing to Open Source</td>
-    <td>💡 Attending & winning Hackathons</td>
+    <td align="center" width="50%">🌟 Contributing to Open Source</td>
+    <td align="center" width="50%">💡 Attending & winning Hackathons</td>
   </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -138,16 +148,6 @@ const nithish: Developer = {
 </div>
 
 </details>
-
-<br/>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithish0204&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
-</div>
 
 <br/>
 

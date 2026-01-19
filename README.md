@@ -15,7 +15,7 @@
   <a href="https://nithishdaruvuri.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nithishdaruvuri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:naninithish988@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1kQVeOmxcXIg7Sh4-igkM6gwLFMaKM0-6/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1D098l7JH_8cVcPqIXKfouuMGQnqBdmCi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 <p align="center">

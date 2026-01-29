@@ -1,275 +1,185 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=NITHISH%20DARUVURI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50&descSize=18"/>
-
-<!-- Typing Animation with Multiple Lines -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FFE6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;AI%2FML+Enthusiast+%F0%9F%A4%96;DevOps+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
-</p>
-
-<!-- Badges with Custom Styling -->
-<p align="center">
-  <a href="https://nithishdaruvuri.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nithishdaruvuri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="mailto:naninithish988@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1D098l7JH_8cVcPqIXKfouuMGQnqBdmCi/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-</p>
-
-<!-- Profile Views & GitHub Stats Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithish0204&style=for-the-badge&color=blueviolet&labelColor=1a1a1a" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/nithish0204?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a&logo=github" alt="followers"/>
-</p>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NITHISH%20DARUVURI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Code%20%7C%20Build%20%7C%20Create&descAlignY=51&descAlign=50"/>
 
 </div>
 
-<br>
+<!-- Animated Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BEFF7&center=true&vCenter=true&random=false&width=700&lines=Coding+%F0%9F%92%BB;Learning+%F0%9F%93%9A;Growing+%F0%9F%8C%B1;Working+%E2%9A%99;Thinking+%F0%9F%A7%A0;Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<!-- About Me Section with Enhanced Design -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+<!-- Social Links with Animation -->
+<p align="center">
+  <a href="https://nithishdaruvuri.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nithishdaruvuri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:naninithish988@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1D098l7JH_8cVcPqIXKfouuMGQnqBdmCi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+</p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nithish0204&style=flat-square&color=blueviolet" alt="Profile views"/>
+</p>
+
+---
+
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   About Me
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
 <br>
 
-### 👨‍💻 Quick Introduction
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```typescript
-class Developer {
-  name: string = "Nithish Daruvuri";
-  location: string = "📍 Vijayawada, Andhra Pradesh, India";
-  education: string = "🎓 VR Siddhartha Engineering College";
-  role: string = "Full Stack Developer & Problem Solver";
+<br>
 
-  languages: string[] = ["Java", "Python", "JavaScript", "C"];
+### 🎯 Who Am I?
 
-  tech_stack = {
-    frontend: ["React", "Tailwind CSS", "Bootstrap", "HTML5", "CSS3"],
+Hey! I'm **Nithish Daruvuri**, a passionate **Student Developer** from **VR Siddhartha Engineering College**, constantly pushing the boundaries of what's possible with code. I believe in learning by building and building by learning!
+
+<br>
+
+### 🔭 What I'm Currently Up To
+
+- 🚀 Diving deep into **DevOps** - mastering Docker, Kubernetes & CI/CD pipelines
+- 🤖 Exploring **AI/ML** - building neural networks and data science projects
+- 💻 Crafting scalable **Backend Architectures** with microservices
+- 🏆 Grinding **DSA** problems daily on competitive coding platforms
+- 🌟 Preparing for **Open Source Contributions** to make an impact
+
+<br>
+
+### 💡 My Expertise Zone
+
+```javascript
+const nithish = {
+  location: "📍 Vijaywada, Andhra Pradesh, India",
+  education: "🎓 VR Siddhartha Engineering College",
+
+  expertise: {
     backend: ["Node.js", "Express", "Django", "Spring Boot"],
+    frontend: ["React", "Tailwind CSS", "Bootstrap"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    languages: ["Python", "Java", "JavaScript", "C"],
     devops: ["Docker", "Git", "Linux", "CI/CD"],
-    tools: ["VS Code", "Postman", "GitHub"],
-  };
+    competitive: ["LeetCode", "CodeChef", "Codeforces"],
+  },
 
-  current_focus: string[] = [
-    "🚀 Building scalable web applications",
-    "🤖 Exploring AI/ML & Data Science",
-    "☁️ Learning Cloud & DevOps",
-    "🧩 Mastering DSA & Competitive Programming",
-    "🌟 Contributing to Open Source",
-  ];
+  passions: ["Problem Solving 🧩", "System Design 🏗️", "Cloud Computing ☁️"],
 
-  life_motto(): string {
-    return "Code. Learn. Build. Repeat. 🔁";
-  }
-}
+  currentGoal:
+    "Building production-ready applications & contributing to open source",
+
+  funFact: "I turn coffee into code and bugs into features! ☕➡️💻",
+};
 ```
 
 <br>
 
-### 🎯 What Drives Me
+### 🎪 Beyond The Code
 
-<table>
-<tr>
-<td width="50%">
+When I'm not debugging or pushing commits, you'll find me:
 
-#### 💡 Problem Solving
+- 🧠 Solving complex algorithmic challenges
+- 🛠️ Building side projects that solve real problems
+- 🤝 Collaborating on open-source initiatives
+- 🏅 Competing in hackathons and coding contests
+- 📚 Reading tech blogs and staying updated with latest trends
 
-I love tackling complex algorithmic challenges and finding elegant solutions. Every problem is an opportunity to learn something new!
+<br>
 
-#### 🏗️ Building Projects
+### 🌱 Always Growing
 
-From concept to deployment, I enjoy creating applications that solve real-world problems and make an impact.
+> "The best way to predict the future is to create it."
 
-</td>
-<td width="50%">
-
-#### 🌱 Continuous Learning
-
-Technology evolves rapidly, and so do I. Always exploring new frameworks, tools, and best practices.
-
-#### 🤝 Collaboration
-
-I believe in the power of community and open-source. Let's build something amazing together!
-
-</td>
-</tr>
-</table>
+I'm on a mission to master the art of software development, one commit at a time. Currently leveling up my skills in **cloud architecture**, **machine learning**, and **scalable system design**!
 
 <br>
 
 ---
 
-<h1 align="center">
-  ⚡ Tech Arsenal
-</h1>
+<!-- Tech Stack Section with Icons -->
+<h2 align="center">🔥 Tech Stack & Tools</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript&theme=dark" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
 </p>
 
-### ⚙️ Backend Development
+### Backend & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,mongodb,mysql,postgres&theme=dark" />
 </p>
 
-### 🗄️ Databases
+### DevOps & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a"/>
-</p>
-
-### 🛠️ DevOps & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,docker&theme=dark" />
 </p>
 
 </div>
 
-<br>
-
 ---
 
-<h1 align="center">
-  🏆 Competitive Programming Profiles
-</h1>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<a href="https://www.leetcode.com/nithish_daruvuri">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" height="35"/>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.codechef.com/users/naninithish988">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a1a" height="35"/>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://codeforces.com/profile/nithish_daruvuri">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a1a" height="35"/>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.hackerrank.com/nithish_daruvuri">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1a1a1a" height="35"/>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://auth.geeksforgeeks.org/user/238w1aifz0/profile">
-<img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a1a" height="35"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📊 LeetCode Stats
+<!-- Coding Profiles Section -->
+<h2 align="center">💻 Competitive Programming</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/nithish_daruvuri?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://www.leetcode.com/nithish_daruvuri">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/naninithish988">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/nithish_daruvuri">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/nithish_daruvuri">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/238w1aifz0/profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
-
-</div>
-
-<br>
 
 ---
 
-<h1 align="center">
-  📊 GitHub Analytics
-</h1>
 
+
+<!-- Activity Graph -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithish0204&custom_title=Nithish's%20Contribution%20Graph&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area_color=f85d7f&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<!-- Quote Section -->
 <div align="center">
   
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=nithish0204&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish0204&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish0204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=10" alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nithish0204&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-### 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithish0204&custom_title=Nithish's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&title_color=FFFFFF" alt="Contribution Graph" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  
 </div>
-
-<br>
 
 ---
 
-<h1 align="center">
-  🐍 Contribution Snake
-</h1>
+<!-- Snake Animation -->
+<h2 align="center">🐍 Watch My Contributions Get Eaten!</h2>
 
 <div align="center">
   <picture>
@@ -283,51 +193,13 @@ I believe in the power of community and open-source. Let's build something amazi
 
 ---
 
-<h1 align="center">
-  💭 Random Dev Quote
-</h1>
-
+<!-- Footer -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-</div>
+  
+### 💬 "Code is poetry written in logic"
 
-<br>
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
----
-
-<h1 align="center">
-  🤝 Let's Connect!
-</h1>
-
-<div align="center">
-
-### 📬 Reach Out To Me
-
-<p>
-  <a href="https://www.linkedin.com/in/nithishdaruvuri/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="mailto:naninithish988@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-  <a href="https://nithishdaruvuri.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=Google-Chrome&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-</p>
-
-<br>
-
-### 💡 "First, solve the problem. Then, write the code." - John Johnson
-
-<br>
-
-**⭐ From [nithish0204](https://github.com/nithish0204) | Thanks for visiting! Let's build something incredible together! 🚀**
-
-<br>
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>

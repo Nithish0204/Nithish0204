@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Applications+%F0%9F%9A%80;Solving+Complex+Problems+%F0%9F%A7%A9;Learning+New+Technologies+%F0%9F%92%A1;Contributing+to+Open+Source+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Applications+%F0%9F%9A%80;Solving+Complex+Problems+%F0%9F%A7%A9;Learning+New+Technologies+%F0%9F%92%A1" alt="Typing Animation" />
 </p>
 
 <!-- Badges Row -->

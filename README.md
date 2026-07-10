@@ -27,7 +27,7 @@
   <a href="mailto:naninithish988@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1D098l7JH_8cVcPqIXKfouuMGQnqBdmCi/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1kaH7fDOY0pfyCb0UZ-WKb-YoddTNpj74/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>

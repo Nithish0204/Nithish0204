@@ -1,339 +1,306 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=NITHISH%20DARUVURI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=780&lines=booting+nithish_os+v2.7...;loading+kernel+modules%3A+java%2C+python%2C+javascript...;mounting+%2Fdev%2Fdsa+...+300%2B+problems+indexed;initializing+ai_integration.service+...+OK;system+ready.+welcome%2C+recruiter." alt="Typing SVG" />
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=200&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Applications+%F0%9F%9A%80;Solving+Complex+Problems+%F0%9F%A7%A9;Learning+New+Technologies+%F0%9F%92%A1" alt="Typing Animation" />
-</p>
+</div>
 
-<!-- Badges Row -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithish0204&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/nithish0204?label=Followers&style=flat-square&color=764ba2" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-764ba2?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square&logo=googlemaps" alt="location"/>
-</p>
+<div align="center">
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://nithishdaruvuri.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-667EEA?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nithishdaruvuri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:naninithish988@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1kaH7fDOY0pfyCb0UZ-WKb-YoddTNpj74/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  NITHISH_OS  ::  boot sequence                                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║  [ OK ]  loading /kernel/dsa.ko ................ 300+ problems     ║
+║  [ OK ]  mounting /srv/backend ................. Flask · Node.js   ║
+║  [ OK ]  starting ai-integration.service ....... LLMs · RAG        ║
+║  [ OK ]  linking /usr/lib/frontend .............. React · Tailwind ║
+║  [ OK ]  verifying credentials .................. AWS CCP          ║
+║  [ OK ]  spawning process: accenture-intern ..... PID 2026         ║
+║  [DONE]  nithish_os ready in 0.42s                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br>
 
-<!-- About Me Section with Gradient Box -->
-<div align="center">
-<table>
+<table align="center">
 <tr>
-<td>
+<td width="50%" valign="top">
 
-## 👨‍💻 About Me
-
-</td>
-</tr>
-<tr>
-<td>
+### ```whoami```
 
 ```yaml
-name: Nithish Daruvuri
-located_in: Vijaywada, Andhra Pradesh, India
-current_education: VR Siddhartha Engineering College
-job: Student Developer
+name:        Nithish Kumar Daruvuri
+role:        Software Engineering Undergraduate
+focus:       Full-Stack + AI-Integrated Systems
+institution: VRSEC, Vijayawada  (B.Tech IT, CGPA 8.5/10)
+timeline:    Sep 2023 → May 2027
+currently:   Associate SWE Intern @ Accenture, Bengaluru
+languages:   Java · Python · JavaScript (ES6+)
+shell:       always debugging in production (jk... mostly)
+```
 
-fields_of_interests:
-  - Full Stack Development
-  - DevOps & Cloud Computing
-  - Artificial Intelligence & Machine Learning
-  - Competitive Programming
-  - System Design & Architecture
+</td>
+<td width="50%" valign="top">
 
-technical_background:
-  - Backend Development (Node.js, Express, Django, Spring Boot)
-  - Frontend Engineering (React, Modern CSS)
-  - Database Design (MongoDB, PostgreSQL, MySQL)
-  - DevOps Tools (Docker, Git, CI/CD)
-  - Data Structures & Algorithms
+### ```neofetch```
 
-currently_learning:
-  - System Design
-  - Kubernetes & Container Orchestration
-  - Machine Learning & Deep Learning
-  - Microservices Architecture
-
-hobbies:
-  - Competitive Programming
-  - Building Side Projects
-  - Reading Tech Blogs
-  - Hackathons & Coding Contests
+```
+    ___         _  __   _     __       ⟶ OS: NithishOS 2.7 LTS
+   / _ \  __ __ (_)/ /_ (_)___/ /       ⟶ Host: VRSEC Vijayawada
+  / , _/ / // // // __// // __/         ⟶ Uptime: 3 yrs (2023–2027)
+ /_/|_|  \_,_//_/ \__//_/\__/           ⟶ Shell: bash + brain.exe
+                                         ⟶ DE: VS Code (Cursor-piloted)
+  ┌─────────────────────────┐           ⟶ Terminal: Java · Python
+  │ ■ Java   ■ Python        │           ⟶ CPU: 300+ DSA problems solved
+  │ ■ JS     ■ SQL           │           ⟶ Memory: HackerRank Gold (Java)
+  └─────────────────────────┘           ⟶ Theme: Cyberpunk-Terminal-Dark
 ```
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 📡 &nbsp; `cat /var/log/current_status.log`
+
+**Software Engineering undergraduate** building full-stack applications and REST APIs with **Flask, Node.js, and MongoDB**, with a growing focus on **AI-integrated systems** — search relevance, LLM-based agents, and retrieval pipelines. Currently shadowing enterprise monitoring workflows on the **Anglo American account at Accenture**, while completing Accenture's Generative AI learning program. National-hackathon finisher, 300+ DSA problems deep, and an AWS Certified Cloud Practitioner.
+
 </div>
 
+---
+
+## 🧬 &nbsp; `system.tech_stack --visualize`
+
+<div align="center">
+
+**Core Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+
+**Frameworks · Runtime**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,express,tailwind&theme=dark" />
+
+**Data · Infra**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,githubactions,vercel,postman&theme=dark" />
+
+**AI / Gen AI Tooling**
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />&nbsp;
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 💼 &nbsp; `ps -ef | grep experience`
+
+<table>
+<tr>
+<td width="8%" align="center">🏢</td>
+<td>
+
+**Associate Software Engineer Intern** — Accenture, Bengaluru
+`June 2026 → Present`
+- Shadowing the enterprise monitoring workflow on the **Anglo American** engagement to learn how large-scale applications are observed and maintained in production.
+- Completing Accenture's **Generative AI learning program** — deepening understanding of LLMs, prompt engineering, and AI agents, and exploring their application to enterprise systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 &nbsp; `ls -la ./featured_projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Search Relevance Optimizer
+`Python` `FastAPI` `OpenSearch` `spaCy` `Sentence-Transformers`
+
+An e-commerce search engine built with a team to surface the *right* products even through typos or natural-language queries — not just exact keyword matches.
+
+- Query understanding via **spaCy**, spelling correction via **SymSpell**
+- Semantic matching via **Sentence Transformers**
+- Hybrid retrieval combining **BM25 + kNN** on **OpenSearch**
+- Validated against **400+ search queries**
+
+[`→ Repository`](https://github.com/Nithish0204) &nbsp;|&nbsp; [`→ Live Demo`](https://search-relevance-optimizer-six.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Centralized Learning Management System
+`React` `Node.js` `Express.js` `MongoDB`
+
+A unified LMS where students access courses/assignments while instructors and admins manage learning resources — **3 distinct user roles**, one platform.
+
+- **React** frontend, **Node.js/Express** backend
+- **JWT + RBAC** for secure, role-based access
+- **Cloudinary** for course media storage
+- **MongoDB** for persistent course data
+
+[`→ Repository`](https://github.com/Nithish0204) &nbsp;|&nbsp; [`→ Live Demo`](https://github.com/Nithish0204)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Lumina — AI Mental Health Companion
+`Python` `Flask` `Whisper` `ElevenLabs`
+
+An AI companion providing emotional support through personalized text and voice conversations, adapting to the user's chosen relationship type.
+
+- **Gemma 3** for response generation
+- Custom **emotion detection** model
+- **Whisper** for speech-to-text
+- **ElevenLabs** for voice synthesis + cloning
+- **6 relationship types** across **2 languages**
+
+[`→ Repository`](https://github.com/Nithish0204) &nbsp;|&nbsp; [`→ Live Demo`](https://github.com/Nithish0204)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥗 AI Nutrition & Dietary Assessment Tool
+`Python` `TensorFlow` `Gemini API`
+
+Point your camera at food, get instant nutrition breakdowns — calories, protein, carbs, fats, and more.
+
+- **TensorFlow** model for food recognition
+- **Google Gemini API** for insights & recommendations
+- **Nutritionix API** for detailed nutrition data
+- Covers **100+ food categories**
+
+[`→ Repository`](https://github.com/Nithish0204)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 &nbsp; `top -o github_activity`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nithish0204&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish0204&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish0204&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=C9D1D9" width="97%" />
+
+</div>
+
+<details>
+<summary><b>🏆 expand: trophy_case.json</b></summary>
 <br>
-
-<!-- Current Status Section -->
 <div align="center">
-
-## 🎯 Current Focus
-
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div align="left" style="width: 50%">
-
-🔭 Working on **Full Stack Web Applications**  
-🌱 Learning **DevOps & Cloud Architecture**  
-👯 Looking to collaborate on **Open Source Projects**  
-🤝 Seeking opportunities in **Software Development**  
-💬 Ask me about **JavaScript, Python, React, Node.js**  
-⚡ Fun fact: **I debug with console.log and I'm proud of it!**  
-📫 Reach me at **naninithish988@gmail.com**
-
+<img src="https://github-profile-trophy.vercel.app/?username=Nithish0204&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
-
-</div>
-
-<br><br>
+</details>
 
 ---
 
-<!-- Tech Stack Section -->
-<div align="center">
+## 🏅 &nbsp; `cat achievements.log`
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=6&theme=dark" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=7&theme=dark" />
-</p>
-
-### ⚙️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,mongodb,mysql,postgres&perline=8&theme=dark" />
-</p>
-
-### 🔧 DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,postman,vscode&perline=9&theme=dark" />
-</p>
-
-</div>
+```diff
++ 1st Runner-Up — Synapse 2K25 National Hackathon (full-stack team solution)
++ Top 7 / 100+ teams — TechXcelerate, BITS Goa
++ 300+ problems solved on LeetCode
++ HackerRank Gold Badge — Java
++ AWS Certified Cloud Practitioner — Amazon Web Services (May 2026)
+```
 
 ---
 
-<!-- GitHub Stats Section -->
-<div align="center">
+## 🛰️ &nbsp; `roadmap.exec()`
 
-## 📊 GitHub Statistics
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithish0204&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&area_color=667eea" alt="Contribution Graph"/>
-
-</div>
+```mermaid
+timeline
+    title Career Trajectory
+    2023 : Started B.Tech IT @ VRSEC
+    2025 : National hackathon finalist (Synapse 2K25, TechXcelerate)
+    2026 : AWS Certified Cloud Practitioner
+         : Joined Accenture as Associate SWE Intern
+    2027 : B.Tech graduation
+         : Targeting SDE roles at product-first companies
+```
 
 ---
 
-<!-- Coding Profiles Section -->
-<div align="center">
-
-## 💻 Competitive Programming Profiles
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="20%">
-<a href="https://www.leetcode.com/nithish_daruvuri">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="48" height="48" alt="LeetCode"/>
-<br><b>LeetCode</b>
-</a>
+<td width="50%" valign="top">
+
+### 🧭 coding_philosophy.md
+
+> Understand the problem before touching the keyboard.
+> Ship things that work end-to-end, not just in theory.
+> AI is a tool that accelerates thinking — not a replacement for it.
+> Every project should teach you something you didn't know going in.
+
 </td>
-<td align="center" width="20%">
-<a href="https://www.codechef.com/users/naninithish988">
-<img src="https://avatars.githubusercontent.com/u/11960354?s=200&v=4" width="48" height="48" alt="CodeChef"/>
-<br><b>CodeChef</b>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://codeforces.com/profile/nithish_daruvuri">
-<img src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" width="48" height="48" alt="Codeforces"/>
-<br><b>Codeforces</b>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://www.hackerrank.com/nithish_daruvuri">
-<img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="48" height="48" alt="HackerRank" style="background: #2EC866; padding: 8px; border-radius: 4px;"/>
-<br><b>HackerRank</b>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://auth.geeksforgeeks.org/user/238w1aifz0/profile">
-<img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="48" height="48" alt="GeeksforGeeks"/>
-<br><b>GeeksforGeeks</b>
-</a>
+<td width="50%" valign="top">
+
+### ⚡ fun_facts.arr
+
+```json
+[
+  "debugs faster with coffee.exe running",
+  "reads model architectures for fun",
+  "300+ LeetCode grind, zero shortcuts",
+  "believes clean READMEs > clean code (kidding... mostly)"
+]
+```
+
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- LeetCode Stats Section -->
+## 📡 &nbsp; `nc -v contact.terminal 443`
+
 <div align="center">
 
-## 🏅 LeetCode Statistics
+```
+┌──────────────────────────────────────────────┐
+│  connecting to nithish_daruvuri@network...    │
+│  handshake: SUCCESS                           │
+│  channels open below ↓                        │
+└──────────────────────────────────────────────┘
+```
 
-<img width="49%" src="https://leetcard.jacoblin.cool/nithish_daruvuri?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-
-</div>
-
----
-
-<!-- Latest Projects Section -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Mental Health Chatbot (AI-Based Emotional Support)
-
-An AI-powered chatbot designed to provide emotional support, especially for students and individuals who feel lonely or are away from family. Supports both chat and voice interaction, personalized by relationship and nickname.
-
-**Tech Stack:** Python, HTML, CSS, JavaScript, Whisper, ElevenLabs  
-**Features:** Text & Voice Chat, Voice Cloning, Static Voice Fallback, Emotional Support Responses
-
-[View Project →](https://github.com/Nithish0204/AI-Powered-Mental-Health-Conversational-Agent)
-
-</td>
-<td width="50%">
-
-### 🍎 AI Nutritional Analyzer (Food Image-Based)
-
-An AI application that scans or analyzes food images to estimate calories and nutritional values, and provides healthy food suggestions to help users make better dietary choices.
-
-**Tech Stack:** Python, Streamlit, AI Image Recognition, Nutrition API  
-**Features:** Food Image Scanning, Calorie Estimation, Nutrition Breakdown, Health Suggestions
-
-[View Project →](https://github.com/Nithish0204/Dietary-Assessment-Tool)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎓 Learning Management System (Full-Stack LMS)
-
-A full-stack Learning Management System that digitizes academic workflows. Teachers can manage courses, assignments, grading, and live classes, while students can submit work and track progress.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Cloudinary, JWT  
-**Features:** Role-Based Access, Assignments & Grading, File Uploads, Live Classes, Email Notifications
-
-[View Project →](https://github.com/Nithish0204/Centralized_Learning_Management_System)
-
-</td>
-<td width="50%">
-
-### 🚧 More Projects Coming Soon
-
-Currently working on improving existing projects and building new real-world applications focused on AI, full-stack development, and social impact.
-
-**Tech Stack:** Java, Python, MERN, AI/ML  
-**Focus:** Real-world problem solving, scalability, user experience
-
-</td>
-</tr>
-
-</table>
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://nithishdaruvuri.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishdaruvuri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nithish0204)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nithish_Daruvuri)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naninithish988@gmail.com)
 
 </div>
 
 ---
 
-<!-- Quote Section -->
 <div align="center">
 
-## 💭 Developer Quote
+```
+process nithish_os exited with status 0 — thanks for stopping by.
+```
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
+<img src="https://komarev.com/ghpvc/?username=Nithish0204&label=PROFILE+VIEWS&color=00FF9C&style=for-the-badge" alt="Profile views" />
 
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nithish0204/nithish0204/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<!-- Connect Section -->
-<div align="center">
-
-## 🤝 Let's Connect!
-
-<p>
-  <i>I'm always open to interesting conversations and collaboration opportunities!</i>
-</p>
-
-<p>
-  <a href="https://nithishdaruvuri.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nithishdaruvuri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:naninithish988@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/nithish0204" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-### ⭐ From [nithish0204](https://github.com/nithish0204) with 💜
-
-<i>Happy Coding! 🚀</i>
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+<sub>Last kernel rebuild: 2026 · Compiled with ☕ and too many browser tabs</sub>
 
 </div>

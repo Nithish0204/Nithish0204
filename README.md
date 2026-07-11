@@ -8,15 +8,15 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  NITHISH_OS  ::  boot sequence                                     ║
+║  NITHISH_OS  ::  boot sequence                                   ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  [ OK ]  loading /kernel/dsa.ko ................ 300+ problems     ║
-║  [ OK ]  mounting /srv/backend ................. Flask · Node.js   ║
-║  [ OK ]  starting ai-integration.service ....... LLMs · RAG        ║
-║  [ OK ]  linking /usr/lib/frontend .............. React · Tailwind ║
-║  [ OK ]  verifying credentials .................. AWS CCP          ║
-║  [ OK ]  spawning process: accenture-intern ..... PID 2026         ║
-║  [DONE]  nithish_os ready in 0.42s                                  ║
+║  [ OK ]  loading /kernel/dsa.ko ................ 300+ problems   ║
+║  [ OK ]  mounting /srv/backend ................. Flask · Node.js ║
+║  [ OK ]  starting ai-integration.service ....... LLMs · RAG      ║
+║  [ OK ]  linking /usr/lib/frontend ............ React · Tailwind ║
+║  [ OK ]  verifying credentials ................ AWS CCP          ║
+║  [ OK ]  spawning process: accenture-intern ... PID 2026         ║
+║  [DONE]  nithish_os ready in 0.42s                               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 

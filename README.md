@@ -22,11 +22,30 @@
 
 </div>
 
+<div align="center">
+
+### 📌 &nbsp; `--quick-glance`
+
+![CGPA](https://img.shields.io/badge/CGPA-8.5%2F10-064E3B?style=flat-square&labelColor=0D1117)
+![Currently](https://img.shields.io/badge/Currently-Accenture%20%40%20Bengaluru-064E3B?style=flat-square&labelColor=0D1117)
+![DSA](https://img.shields.io/badge/DSA-300%2B%20Solved-064E3B?style=flat-square&labelColor=0D1117)
+![Hackathon](https://img.shields.io/badge/Synapse%202K25-1st%20Runner--Up-064E3B?style=flat-square&labelColor=0D1117)
+![Cert](https://img.shields.io/badge/AWS-Cloud%20Practitioner-064E3B?style=flat-square&labelColor=0D1117)
+![Grad](https://img.shields.io/badge/Graduating-May%202027-064E3B?style=flat-square&labelColor=0D1117)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://nithishdaruvuri.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishdaruvuri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nithish0204)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Nithish_Daruvuri)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naninithish988@gmail.com)
+
+</div>
+
 <br>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### ```whoami```
 
@@ -39,23 +58,6 @@ timeline:    Sep 2023 → May 2027
 currently:   Associate SWE Intern @ Accenture, Bengaluru
 languages:   Java · Python · JavaScript (ES6+)
 shell:       always debugging in production (jk... mostly)
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ```neofetch```
-
-```
-    ___         _  __   _     __       ⟶ OS: NithishOS 2.7 LTS
-   / _ \  __ __ (_)/ /_ (_)___/ /       ⟶ Host: VRSEC Vijayawada
-  / , _/ / // // // __// // __/         ⟶ Uptime: 3 yrs (2023–2027)
- /_/|_|  \_,_//_/ \__//_/\__/           ⟶ Shell: bash + brain.exe
-                                         ⟶ DE: VS Code (Cursor-piloted)
-  ┌─────────────────────────┐           ⟶ Terminal: Java · Python
-  │ ■ Java   ■ Python        │           ⟶ CPU: 300+ DSA problems solved
-  │ ■ JS     ■ SQL           │           ⟶ Memory: HackerRank Gold (Java)
-  └─────────────────────────┘           ⟶ Theme: Cyberpunk-Terminal-Dark
 ```
 
 </td>
@@ -181,7 +183,7 @@ Point your camera at food, get instant nutrition breakdowns — calories, protei
 
 - **TensorFlow** model for food recognition
 - **Google Gemini API** for insights & recommendations
-- **Nutritionix API** for detailed nutrition data
+- **Nutritionix API** for detailed nutritional information
 - Covers **100+ food categories**
 
 [`→ Repository`](https://github.com/Nithish0204)
@@ -277,9 +279,9 @@ timeline
 
 ```
 ┌──────────────────────────────────────────────┐
-│  connecting to nithish_daruvuri@network...    │
-│  handshake: SUCCESS                           │
-│  channels open below ↓                        │
+│  connecting to nithish_daruvuri@network...   │
+│  handshake: SUCCESS                          │
+│  channels open below ↓                       │
 └──────────────────────────────────────────────┘
 ```
 
